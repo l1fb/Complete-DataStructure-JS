@@ -1,0 +1,19 @@
+{
+  "name": "complete-js-data-structures",
+  "version": "1.0.0",
+  "description": "Study data structures with JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/l1fb/Complete-DataStructure-JS.git"
+  },
+  "author": "David Yonwook Chung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/l1fb/Complete-DataStructure-JS/issues"
+  },
+  "homepage": "https://github.com/l1fb/Complete-DataStructure-JS#readme"
+}
